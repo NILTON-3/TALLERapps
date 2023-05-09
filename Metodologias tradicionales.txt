@@ -1,0 +1,6 @@
+Metodoligias Tradicionales 
+Cascada 
+Espiral
+INCREMENTAL 
+RAD
+PROTOTYPING
